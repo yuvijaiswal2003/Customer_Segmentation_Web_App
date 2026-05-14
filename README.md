@@ -58,7 +58,7 @@ customer-segmentation/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPO_LINK
+git clone https://github.com/yuvijaiswal2003/Customer_Segmentation_Web_App
 ```
 
 Move into project directory:
